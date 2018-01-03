@@ -8,6 +8,7 @@ import org.springframework.test.context.junit.jupiter.SpringExtension
 import org.springframework.web.reactive.function.client.WebClient
 import org.springframework.web.reactive.function.client.bodyToFlux
 import reactor.test.test
+import s5.hello.Hello
 
 
 @ExtendWith(SpringExtension::class)
